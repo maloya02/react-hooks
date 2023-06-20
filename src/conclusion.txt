@@ -1,0 +1,5 @@
+useEffect is easier to use
+useEffect is asyncronous
+
+useLayoutEffect is syncrounous
+useLayoutEffect is called/render before useEffect
